@@ -4,6 +4,7 @@
 // коллекциями, лучше обойтись исключительно массивами.
 Console.Clear();
 Console.WriteLine("Контрольная работа");
+// Для выбора варианта тестирования раскоментируйте выбранную строку с инициализацией массива.
 string[] testArray = {"hello", "2", "world", ":-)"};
 // string[] testArray = {"1234", "1567", "-2", "computer science"};
 // string[] testArray = {"Russia", "Denmark", "Kazan", };
